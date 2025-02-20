@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BookStore\\BookStore\\WebStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|d:\\bookstore\\bookstore\\webstore\\webstore\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|d:\\bookstore\\bookstore\\webstore\\webstore\\views\\manager\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\manager\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|d:\\bookstore\\bookstore\\webstore\\webstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|d:\\bookstore\\bookstore\\webstore\\webstore\\const\\constvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\const\\constvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|d:\\bookstore\\bookstore\\webstore\\webstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditBook.cshtml",
+              "DocumentMoniker": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Views\\Manager\\EditBook.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Manager\\EditBook.cshtml",
+              "ToolTip": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Views\\Manager\\EditBook.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Manager\\EditBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T04:16:37.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\ManagerController.cs",
+              "ToolTip": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAANEBAAAAAAAAAAAhwKEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:12:04.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:11:10.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConstValue.cs",
+              "DocumentMoniker": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Const\\ConstValue.cs",
+              "RelativeDocumentMoniker": "WebStore\\Const\\ConstValue.cs",
+              "ToolTip": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Const\\ConstValue.cs",
+              "RelativeToolTip": "WebStore\\Const\\ConstValue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:04:41.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\BookStore\\BookStore\\WebStore\\WebStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:47:05.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
